@@ -1,0 +1,10 @@
+git init > iniciar um repositório
+git config user.name > configurar nome de usuário
+git config user.email > configurar e-mail de usuário
+git add . ou git add -A > adicionar alterações para pré commit
+git commit -m "mensagem do commit" > commitar arquivos para o repositório local ou remoto
+git log > visualizar histórico de commits
+git status
+git branch > criar nova branch
+git checkout > navegar entre branchs
+git log --oneline > para resumir o historico
